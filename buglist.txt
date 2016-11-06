@@ -1,0 +1,10 @@
+addBack()
+	Seems like it has the same code that addFront() has, aka it actually adds elements to the front.
+
+removeBack()
+removeFront()
+	These two functions do not actually remove elements. They do return false that they did
+	not remove stuff, but they should have removed them.
+
+isEmpty()
+	Returns true when there are elements in the list.
